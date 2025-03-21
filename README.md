@@ -9,8 +9,8 @@ A simple replica of Instagram's login page, built using Tailwind CSS. This proje
 
 ## Technologies Used
 
-**Tailwind CSS**: A utility-first CSS framework used for styling.
-**HTML**: For structuring the content.
+**Tailwind CSS**: A utility-first CSS framework used for styling. <br>
+**HTML**: For structuring the content. <br>
 **Responsive Web Design**: Built using flexbox and Tailwind's responsive utilities.
 
 ## How to Run the Project Locally
