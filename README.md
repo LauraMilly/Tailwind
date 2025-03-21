@@ -38,7 +38,7 @@ npm run dev
  ## Project Structure
  
 ```sh
- instagram-login-clone/
+ Tailwind/
 ├── img/
 │   ├── insta-img.png
 │   ├── insta-logo.png
